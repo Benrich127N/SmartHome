@@ -19,6 +19,7 @@ class _HomePageState extends State<HomePage> {
     // [smartDeviceName, iconPath, power Status]
     ["Smart Light", "lib/icons/light-bulb.png", true],
     ["Smart AC", "lib/icons/air-conditioner.png", false],
+    //ggg
     ["Smart TV", "lib/icons/smart-tv.png", false],
     ["Smart Fan", "lib/icons/fan.png", false],
   ];
